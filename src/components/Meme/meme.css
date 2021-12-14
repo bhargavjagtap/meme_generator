@@ -1,0 +1,8 @@
+.image{ 
+    display: flex;
+    width: 277px !important;
+    height: 168px !important;
+    left: 36px;
+    top: 227px;
+    border-radius: 2px;
+}
